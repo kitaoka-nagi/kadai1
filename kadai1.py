@@ -6,5 +6,4 @@ for i in range(1, 101):
     elif i % 5 == 0:
         print ('就活したい')
     else:
-        print(i)
-        
+        print(i)      
