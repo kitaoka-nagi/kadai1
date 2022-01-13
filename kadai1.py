@@ -1,4 +1,4 @@
-for i in range(1, 201):
+for i in range(1, 101):
     if i % 15 == 0:
         print ('だいがく爆破')
     elif i % 3 == 0:
@@ -6,5 +6,4 @@ for i in range(1, 201):
     elif i % 5 == 0:
         print ('就活したい')
     else:
-        print(i)   
-              
+        print(i)             
